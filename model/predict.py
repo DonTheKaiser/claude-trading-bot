@@ -69,4 +69,4 @@ def predict_signal():
     print(f"🎯 Take-Profit:   ${price + 3 * atr:.2f} (+{3 * atr / price * 100:.1f}%)")
 
 if __name__ == "__main__":
-    predict_signal()
+    predict_signal()    
